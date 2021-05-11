@@ -1,13 +1,6 @@
-```
-                _       _                               
-               | |     | |                              
-  ___ _   _  __| | ___ | |__  _   _ _ __ __ _  ___ _ __ 
- / __| | | |/ _` |/ _ \| '_ \| | | | '__/ _` |/ _ \ '__|
- \__ \ |_| | (_| | (_) | |_) | |_| | | | (_| |  __/ |   
- |___/\__,_|\__,_|\___/|_.__/ \__,_|_|  \__, |\___|_|   
-                                         __/ |          
-                                        |___/           
-```
+# Jonathan Davis
 
-#### Hi! My name is sudoburger and I'm an Australian teen with a passion for computer science, among other things.
+> Hey, I'm Jonathan. I'm a student from Australia, with interests in artificial intelligence, technology, theoretical and applied physics and chemistry, applied and pure mathematics and aeronautical engineering.
 
+### Contact and Networking
+If you'd like to get in touch with me, feel free to shoot me an email at davisjonathan380 {at} gmail {dot} com, or just send me a tweet @Omnitheorist ([https://twitter.com/Omnitheorist]).
